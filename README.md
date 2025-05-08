@@ -26,6 +26,8 @@ Esta calculadora funciona con operaciones básicas, como sumar, restar, multipli
 
 ## 📬 Contacto
 **👤 Responsable:** Agustín López 
+
 **📧 Correo electrónico:** agus77chang@gmail.com  
+
 **📞 Teléfono:** 54505400 
 
